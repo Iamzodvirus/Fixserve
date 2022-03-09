@@ -92,7 +92,7 @@ h6 {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 100px;
+  max-height: 40px;
 }
 
 /*--------------------------------------------------------------
@@ -209,6 +209,7 @@ h6 {
 /**
 * Mobile Navigation 
 */
+
 .mobile-nav-toggle {
   color: #222222;
   font-size: 28px;
